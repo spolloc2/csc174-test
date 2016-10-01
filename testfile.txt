@@ -3,3 +3,5 @@ milk
 bread 
 juice
 cereal
+strawberries
+apples
